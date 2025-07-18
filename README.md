@@ -1,10 +1,10 @@
 <!--
 **anujpml/anujpml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# 🧠 Entrepreneurial Product Leader | B2B Apps & AI/Data Platforms | Banking, Cybersecurity, Healthcare & Forensics
+# 🧠 Entrepreneurial Product Leader | AI/Data Platforms & B2B Apps | Banking, Cybersecurity & Healthcare
 
 ## 🔍 About Me
-A Seasoned Product Leader with 12+ years of experience building and scaling Enterprise Cloud-native products across AI/Data Platforms, IoT, and B2B Applications in high-growth startup environments(0 to 10). Recognized for engineering depth, empathetic people leadership, and a track record of founding and elevating product organizations. Adept at transforming ambiguous challenges into market-leading, revenue-generating platforms for regulated domains (such as banking, cybersecurity, healthcare) worldwide.
+A Seasoned Product Leader with 12+ years of experience building and scaling Enterprise Cloud-native products across AI/Data Platforms, IoT, and B2B Applications in high-growth startup environments(0 to 10). Recognized for engineering depth, empathetic people leadership, and a track record of founding and elevating product organizations. Adept at transforming ambiguous challenges into market-leading, revenue-generating platforms for regulated domains (such as banking, cybersecurity, digital healthcare & Forensics) worldwide.
 A builder of high-trust, high-output teams; advocate for customer-centricity and agile best practices; architect of secure, data-driven and scalable solutions that deliver measurable value.
 
 ---
