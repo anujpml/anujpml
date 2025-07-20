@@ -24,6 +24,10 @@ A builder of high-trust, high-output teams; advocate for customer-centricity and
   
 ---
 
-## 🔗 Connect with Me
-📬 Email: anuj.saraswat.daa@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/anujpml](https://linkedin.com/in/anujpml) 
+## 📬 Want to Connect?
+
+If you're a fellow product thinker, builder, founder, or hiring for roles in **Data & AI/ML platforms**, **healthtech**, or **enterprise product**, I’d love to talk.
+
+📫 [anuj.saraswat.daa@gmail.com](mailto:anuj.saraswat.daa@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/anujpml)  
+💻 [Portfolio](https://github.com/anujpml/portfolio)
