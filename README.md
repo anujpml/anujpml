@@ -30,4 +30,4 @@ If you're a fellow product thinker, builder, founder, or hiring for roles in **D
 
 📫 [anuj.saraswat.daa@gmail.com](mailto:anuj.saraswat.daa@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anujpml)  
-💻 [Portfolio](https://github.com/anujpml/portfolio)
+💻 [Portfolio](https://github.com/anujpml/portfolio/blob/main/Portfolio.md)
