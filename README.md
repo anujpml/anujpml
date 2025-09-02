@@ -18,7 +18,7 @@ A builder of high-trust, high-output teams; advocate for customer-centricity and
 - End-to-end product lifecycle management from ideation to product-market fit(0→1) and growth(1→10) through Product-Led-Growth strategies.
 - Driving product discovery, execution, and go-to-market strategies while defining vision, roadmap, and metrics-driven outcomes.
 - People Leadership: Customer Advocacy, User Experience Design, Team building & Mentoring, Cross-Functional Team Alignment, Stakeholder Management.
-- AI/ML (LLMs, MLOps, Context Engineering, Agentic Workflows, RAG/MCP/A2A), DataOps, Cloud-native & hybrid Architectures, Docker/K8N, API-first Platforms, IoT Edge Computing (Jetson, AWS IoT, SBCs), Telemetry, Observability, Model/pipeline Orchestrations & Evalutions, Apache/ELK/LangChain Ecosystem. 
+- AI/ML (LLMs/SLMs, MLOps, Context Engineering, CoTs, Reasoning, Memorisation, Agentic Workflows, RAG/MCP/A2A), DataOps(ELT/FE), Cloud-native & hybrid Architectures, Docker/K8N, API-first Platforms, IoT Edge Computing (Jetson, AWS, SBCs), Telemetry, Observability, Model/pipeline Orchestrations & Evalutions, CrewAI, N8N, Apache/ELK/LangChain Ecosystem. 
 - Product Monetization (business modeling, revenue, distribution channels) and Industrial Compliance (SOC2, NIST, GDPR, HIPAA, HL7).
 - Industrial Domains: Banking (TM,AML), Cybersecurity (SIEM,SOAR,MDR), Digital Forensics (mobile/computer/cloud/cellular) and Healthcare (provider).
   
@@ -26,7 +26,7 @@ A builder of high-trust, high-output teams; advocate for customer-centricity and
 
 ## 📬 Want to Connect?
 
-If you're a fellow product thinker, builder, founder, or hiring for roles in **Data & AI/ML platforms**, **healthtech**, or **enterprise product**, I’d love to talk.
+If you're a fellow product thinker, builder, founder, or hiring for roles in **Data & AI/ML platforms**, **health/forensic**, **cybersecurity** or **enterprise product**, I’d love to talk.
 
 📫 [anuj.saraswat.daa@gmail.com](mailto:anuj.saraswat.daa@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/anujpml)  
