@@ -1,3 +1,5 @@
+
+
 <!--
 **anujpml/anujpml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -21,7 +23,7 @@ Started as a software engineer and moved into product leadership after spending 
 - People Leadership: Customer Advocacy, User Experience Design, Team building & Mentoring, Cross-Functional Team Alignment, Stakeholder & Vendor Management.
 - AI/ML (LLMs/SLMs, MLOps, Context Engineering, CoTs, Reasoning, Memorisation, Agentic Workflows, RAG/MCP/A2A), DataOps(ELT/FE), Zero-trus-security, Cloud-native and hybrid Architectures, Docker/K8N, API-first Platforms, SecurityOps(siem, soar, threat intel), IoT Edge Computing (Jetson/SBCs), Telemetry, Observability, Model/pipeline Orchestrations and Evalutions, CrewAI, N8N, Apache/ELK/LangChain Ecosystem. 
 - Product Monetization (business modeling, revenue, distribution channels) and Industrial Compliance (SOC2, NIST, GDPR, HIPAA, HL7).
-- Industrial Domains: Cybersecurity (SIEM/SOAR, MDR), Fianance (FinCrime, AML), and Healthcare (RCM, Provider, VAS).
+- Industrial Domains: Cybersecurity (SIEM/SOAR, MDR), Finance (FinCrime, AML), and Healthcare (RCM, Provider, VAS).
   
 ---
 
